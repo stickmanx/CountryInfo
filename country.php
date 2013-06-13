@@ -3,7 +3,7 @@
 	include_once("connection.php");
 	
 	class Country {
-
+//Comment by Kris Hamoud
 		var $connection;
 
 		public function __construct() {
